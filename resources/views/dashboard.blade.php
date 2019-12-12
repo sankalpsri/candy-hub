@@ -44,6 +44,8 @@
     </div>
 @endsection
 
+@php
+    Cache::put('access_token', auth()->user()->createToken(env("APP_NAME"))->accessToken, $minutes);    
+@endphp
 @section('scripts')
-
 @endsection
