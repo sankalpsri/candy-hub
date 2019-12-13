@@ -6,20 +6,8 @@
     "type": "project",
     "repositories": [
         {
-            "type": "package",
-            "package": {
-                "name": "getcandy/candy-api",
-                "version": "dev-sankalp",
-                "dist": {
-                    "url": "https://github.com/sankalpsri/candy-api/archive/master.zip",
-                    "type": "zip"
-                },
-                "source": {
-                    "url": "https://github.com/sankalpsri/candy-api",
-                    "type": "vcs",
-                    "reference": "dev-sankalp"
-                }
-            }
+            "type": "vcs",
+            "url": "https://github.com/sankalpsri/candy-api.git"
         }
     ],
     "require": {
