@@ -7,7 +7,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/sankalpsri/candy-api.git"
+            "url": "git@github.com:sankalpsri/candy-api.git"
         }
     ],
     "require": {
