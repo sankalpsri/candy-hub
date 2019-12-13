@@ -6,7 +6,7 @@
     "type": "project",
     "repositories": [
         {
-            "type": "csv",
+            "type": "vcs",
             "url": "https://github.com/sankalpsri/candy-api"
         }
     ],
