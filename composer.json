@@ -5,7 +5,7 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "sankalpsri/candy-api": "dev-sankalp",
+        "sankalpsri/candy-api": "sankalp",
         "tightenco/ziggy": "^0.6.9"
     },
     "require-dev": {
