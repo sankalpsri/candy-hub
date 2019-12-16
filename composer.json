@@ -4,14 +4,8 @@
     "keywords": ["ecommerce", "getcandy-hub", "laravel"],
     "license": "MIT",
     "type": "project",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:sankalpsri/candy-api.git"
-        }
-    ],
     "require": {
-        "getcandy/candy-api": "dev-sankalp",
+        "getcandy/candy-api": "sankalp",
         "tightenco/ziggy": "^0.6.9"
     },
     "require-dev": {
